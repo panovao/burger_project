@@ -7,4 +7,4 @@
 
 **Курс** Веб-разработка для начинающих
 
-https://github.com/panovao/burger_project.git
+https://panovao.github.io/burger_project/
